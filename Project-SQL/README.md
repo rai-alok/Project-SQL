@@ -1,5 +1,4 @@
 # Data Engineer Jobs Analysis
-Partially guided by [Luke Barousse's SQL for Data Analytics](https://youtu.be/7mz73uXD9DA?si=xRTipzSlpzKb3has), the project is mostly my own work. This project showcases intermediate skills in SQL and Python, using PostgreSQL as the database and VS Code as the code editor.
 
 # Table of Contents
 1) Objective
